@@ -35,4 +35,4 @@ _if bool is true then the utility deletes the .zip file_
 
 ## The inspiration to build this project:
 
-[Miku-666](https://github.com/NessieHax)
+[mc-arc-util by Miku-666](https://github.com/NessieHax/mc-arc-util)
