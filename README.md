@@ -1,6 +1,6 @@
 # ArcConverter
 
-.net 9 implementation of an arc to zip converter:
+.net 9 implementation of an arc to zip converter:\
 Convert Minecraft Legacy Console .arc files to .zip files and back to .arc
 
 ## Usage
